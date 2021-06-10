@@ -61,6 +61,7 @@ the page to match that palette. The user can save, remove, and view palettes
 using json-server backend.
 
 [Check it out (without the backend) HERE](https://dannyirwin.github.io/phase-2-group-project/)
+
 <img src="./images/sampLDemo.gif"></img>
 
 ##### Orbital Physics Simulator
@@ -71,6 +72,7 @@ heavily influenced by my reading The Three Body Problem at the time. It was
 built using only vanilla HTML CSS and JavaScript.
 
 [Check it out HERE](https://dannyirwin.github.io/Orbital-Physics/)
+
 <img src="./images/orbitalPhysics.gif"></img>
 
 ##### Sightless
@@ -87,6 +89,7 @@ distance to objectives
 Sightless is currently under review on the oculus store.
 
 Some concept art for the logos:
+
 <img src='./images/SightlessLogos_recent.jpeg' height='450'>
 
 #### Triviology
