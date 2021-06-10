@@ -27,7 +27,7 @@ forefront.
 
 Get in touch: dirwin123@gmail.com
 
-### Technical Proficiences
+### Technical Proficiencies
 
 - JavaScript
 - React
@@ -38,10 +38,11 @@ Get in touch: dirwin123@gmail.com
 - Git
 - Linux CLI
 - Node.js
+- Ruby
 
 ##### By the end of the bootcamp
 
-- Ruby
+- Active Record
 - Rails
 - AGILE
 - And More!
