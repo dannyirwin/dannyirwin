@@ -33,19 +33,16 @@ Get in touch: dirwin123@gmail.com
 - React
 - HTML
 - CSS
-- jQuery
 - RESTful APIs
 - Git
 - Linux CLI
-- Node.js
 - Ruby
-
-##### By the end of the bootcamp
-
-- Active Record
 - Rails
-- AGILE
-- And More!
+- Node
+- Express
+- Knex & Objection
+- PostgresQL
+- SQLite3
 
 ### Portfolio Snapshot
 
@@ -92,12 +89,3 @@ Some concept art for the logos:
 
 <img src='./images/SightlessLogos_recent.jpeg' height='450'>
 
-#### Triviology
-
-Triviology was our first group project with Flatiron School. It was built to
-exercise DOM manipulation, API Fetch use, and working with data, along with all
-that goes with working with collaborators. It is a simple trivia game which can
-keep track of users points in multiple sessions an fetch any number of question
-form a json-server API.
-
-<img src='https://media.giphy.com/media/GgEvaZ7EawNwiivAYX/giphy.gif'>
