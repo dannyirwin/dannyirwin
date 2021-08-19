@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/itsdanielirwin/"><img src="./images/linkedin.svg" height=50px fill="#0A66C2"></img></a>
 <a href="mailto:dirwin123@gmail.com"><img src="./images/gmail.svg" height=50px fill="#0A66C2"></img></a>
 
-My name is Danny Irwin and I am a full-stack web developer currently enrolled in
+My name is Danny Irwin and I am a full-stack web developer and recent graduate from
 the Flatiron School Software Developer immersive.
 
 I've been coding as a hobby since 2017 and decided to get serious about making
@@ -16,8 +16,8 @@ director and a variety of other positions with theatre companies. I also have a
 robust professional background in high volume customer service and client-facing
 positions.
 
-_<a href="https://www.youtube.com/watch?v=nCd9MCMyegY"> Want to see me perform a
-little? Click here. </a>_
+<!-- <a href="https://www.youtube.com/watch?v=nCd9MCMyegY"> Want to see me perform a
+little? Click here. </a>_ -->
 
 I am a passionate person who loves to throw himself into new challenges. I am
 excited to not only learn how to make code work, but how to make it work well. I
@@ -29,53 +29,50 @@ Get in touch: dirwin123@gmail.com
 
 ### Technical Proficiencies
 
-- JavaScript
-- React
-- HTML
-- CSS
-- jQuery
-- RESTful APIs
-- Git
-- Linux CLI
-- Node.js
-- Ruby
-
-##### By the end of the bootcamp
-
-- Active Record
-- Rails
-- AGILE
-- And More!
+JavaScript // React // HTML // CSS // jQuery // RESTful APIs // GitHub // Linux CLI // Node // Express // Ruby // Rails // Redux // TypeScript // p5 // Unreal Engine
 
 ### Portfolio Snapshot
 
-#### SampL
+#### MakeIt
 
-During the bootcamp, I found myself building countless little apps to practice
-new front end development techs. It became helpful for me to be able to very
-quickly add some boilerplate styling. The idea for this tool came out of the
-need to quickly find and add a color palette to these little projects. The user
-can input an Image Url from the web and SampL will extract six of the most
-vibrant colors, provide their HEX value in a preview, and change the coloring of
-the page to match that palette. The user can save, remove, and view palettes
-using json-server backend.
+MakeIt is a publishing and community network for makers, artist, and creatives of all skill levels.
 
-[Check it out (without the backend) HERE](https://dannyirwin.github.io/phase-2-group-project/)
+It was a fantastic learning chance to learn a whole new tech stack.  For this project, I learned Redux and a fun Node/Express/Knex/Objection stack, image hosting using firebase, and fully deployed on firebase and heroku.  It also incorporates full Auth. It uses rich text editing with Draft.js and the front end was built using React.
 
-<img src="./images/sampLDemo.gif"></img>
+[Video Demo](https://www.youtube.com/watch?v=ctDpw4tNPwM&ab_channel=DanielIrwin)
 
-##### Orbital Physics Simulator
+[Check it out HERE](https://makeit-e985d.web.app/)
+
+<img src="./images/makeit2.png"></img>
+
+<img src="./images/makeit1.png"></img>
+
+#### Order Up!
+
+Order Up is an online multiplayer game based on the popular card game, Set.
+
+The front end is built using React for the frontend and a Ruby on Rails backend with ActionCable to handle WebSockets.  It includes live games and in-game chat, avatar customization, and matchmaking. The backend is deployed using Heroku.
+
+[Video Demo](https://youtu.be/wMUJNUr6iXg)
+
+[Check it out HERE](https://dannyirwin.github.io/order-up-frontend/)
+
+<img src="./images/OrderUp.png"></img>
+
+#### Orbital Physics Simulator
 
 Before starting with Flatiron School, I did some learning on my own. This
 project loosely simulates the movements of celestial bodies in space and was
 heavily influenced by my reading The Three Body Problem at the time. It was
 built using only vanilla HTML CSS and JavaScript.
 
+[Video Demo](https://youtu.be/iZnxW0VS7Z8)
+
 [Check it out HERE](https://dannyirwin.github.io/Orbital-Physics/)
 
 <img src="./images/orbitalPhysics.gif"></img>
 
-##### Sightless
+#### Sightless
 
 When the COVID-19 pandemic began, my friend and coding mentor decided to pick up
 a personal project together. Sightless is a VR game for Oculus built in Unreal
@@ -92,12 +89,17 @@ Some concept art for the logos:
 
 <img src='./images/SightlessLogos_recent.jpeg' height='450'>
 
-#### Triviology
+#### SampL
 
-Triviology was our first group project with Flatiron School. It was built to
-exercise DOM manipulation, API Fetch use, and working with data, along with all
-that goes with working with collaborators. It is a simple trivia game which can
-keep track of users points in multiple sessions an fetch any number of question
-form a json-server API.
+During the bootcamp, I found myself building countless little apps to practice
+new front end development techs. It became helpful for me to be able to very
+quickly add some boilerplate styling. The idea for this tool came out of the
+need to quickly find and add a color palette to these little projects. The user
+can input an Image Url from the web and SampL will extract six of the most
+vibrant colors, provide their HEX value in a preview, and change the coloring of
+the page to match that palette. The user can save, remove, and view palettes
+using json-server backend.
 
-<img src='https://media.giphy.com/media/GgEvaZ7EawNwiivAYX/giphy.gif'>
+[Check it out (without the backend) HERE](https://dannyirwin.github.io/phase-2-group-project/)
+
+<img src="./images/sampLDemo.gif"></img>
