@@ -29,11 +29,14 @@ Get in touch: dirwin123@gmail.com
 
 ### Technical Proficiencies
 
+<<<<<<< HEAD
 JavaScript // React // HTML // CSS // jQuery // RESTful APIs // GitHub // Linux CLI // Node // Express // Ruby // Rails // Redux // TypeScript // p5 // Unreal Engine
 
 ### Portfolio Snapshot
 
 #### MakeIt
+=======
+
 
 MakeIt is a publishing and community network for makers, artist, and creatives of all skill levels.
 
@@ -89,6 +92,7 @@ Some concept art for the logos:
 
 <img src='./images/SightlessLogos_recent.jpeg' height='450'>
 
+<<<<<<< HEAD
 #### SampL
 
 During the bootcamp, I found myself building countless little apps to practice
@@ -103,3 +107,5 @@ using json-server backend.
 [Check it out (without the backend) HERE](https://dannyirwin.github.io/phase-2-group-project/)
 
 <img src="./images/sampLDemo.gif"></img>
+=======
+>>>>>>> 5db57637670c63accece65bfccc4bbab4aade435
