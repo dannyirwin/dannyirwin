@@ -30,7 +30,6 @@ Get in touch: dirwin123@gmail.com
 
 ### Technical Proficiencies
 
-HEAD
 JavaScript // React // HTML // CSS // jQuery // RESTful APIs // GitHub // Linux CLI // Node // Express // Ruby // Rails // Redux // TypeScript // p5 // Unreal Engine
 
 ### Portfolio Snapshot
