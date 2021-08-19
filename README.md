@@ -2,8 +2,7 @@
 
 ### Why, Hello!
 
-<a href="https://www.linkedin.com/in/itsdanielirwin/"><img src="./images/linkedin.svg" height=50px fill="#0A66C2"></img></a>
-<a href="mailto:dirwin123@gmail.com"><img src="./images/gmail.svg" height=50px fill="#0A66C2"></img></a>
+
 
 My name is Danny Irwin and I am a full-stack web developer and recent graduate from
 the Flatiron School Software Developer immersive.
@@ -26,16 +25,17 @@ seamlessly serving the users' needs and keeping their experience at the
 forefront.
 
 Get in touch: dirwin123@gmail.com
+<a href="https://www.linkedin.com/in/itsdanielirwin/"><img src="./images/linkedin.svg" height=50px fill="#0A66C2"></img></a>
+<a href="mailto:dirwin123@gmail.com"><img src="./images/gmail.svg" height=50px fill="#0A66C2"></img></a>
 
 ### Technical Proficiencies
 
-<<<<<<< HEAD
+HEAD
 JavaScript // React // HTML // CSS // jQuery // RESTful APIs // GitHub // Linux CLI // Node // Express // Ruby // Rails // Redux // TypeScript // p5 // Unreal Engine
 
 ### Portfolio Snapshot
 
 #### MakeIt
-=======
 
 
 MakeIt is a publishing and community network for makers, artist, and creatives of all skill levels.
@@ -107,5 +107,4 @@ using json-server backend.
 [Check it out (without the backend) HERE](https://dannyirwin.github.io/phase-2-group-project/)
 
 <img src="./images/sampLDemo.gif"></img>
-=======
->>>>>>> 5db57637670c63accece65bfccc4bbab4aade435
+
